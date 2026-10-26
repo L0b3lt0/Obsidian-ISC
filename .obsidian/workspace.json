@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "381db6b7d1c7e5cd",
+        "id": "1234ebc2cf0dc537",
         "type": "tabs",
         "children": [
           {
-            "id": "c20de9afe2b9cd59",
+            "id": "84a6ddf9578cb409",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Aprendiendo sobre Backend a Gran Escala - BBB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Aprendiendo sobre Backend a Gran Escala - BBB"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "d45b3b0367f66ba3",
@@ -183,8 +187,14 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "c20de9afe2b9cd59",
+  "active": "e1e0a9c3e64ab428",
   "lastOpenFiles": [
+    "Libreando/dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 1.epub",
+    "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 2.epub",
+    "Aprendiendo sobre Backend a Gran Escala - BBB.md",
+    "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 1.epub",
+    "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915.epub",
+    "Libreando",
     "prueba/nota de prueba.md",
     "aohdjadjaodpo.md",
     "prueba"
