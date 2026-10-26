@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0f3107c083ab3d5",
+        "id": "381db6b7d1c7e5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "01a73046f5330719",
+            "id": "c20de9afe2b9cd59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba/nota de prueba.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "nota de prueba"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba/nota de prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba/nota de prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prueba/nota de prueba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,12 +178,15 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "01a73046f5330719",
+  "active": "c20de9afe2b9cd59",
   "lastOpenFiles": [
     "prueba/nota de prueba.md",
+    "aohdjadjaodpo.md",
     "prueba"
   ]
 }
