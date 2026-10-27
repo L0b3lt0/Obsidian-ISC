@@ -18,8 +18,23 @@
               "icon": "lucide-file",
               "title": "anottation epub"
             }
+          },
+          {
+            "id": "2cd9cddebf3a757d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ug/Inteligencia de Negocios/Big data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big data"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "d45b3b0367f66ba3",
@@ -171,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Libreando/anottation epub.md"
+                "file": "Ug/Inteligencia de Negocios/Big data.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -198,10 +214,13 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "6730c75716289505",
+  "active": "2cd9cddebf3a757d",
   "lastOpenFiles": [
-    "Libreando/Aprendiendo dentro de ISC.md",
     "Libreando/anottation epub.md",
+    "Ug/Inteligencia de Negocios/Big data.md",
+    "Ug/Inteligencia de Negocios",
+    "Ug",
+    "Libreando/Aprendiendo dentro de ISC.md",
     "A2 MERA ROBERTO.pdf",
     "Aprendiendo sobre Backend a Gran Escala - BBB.md",
     "Libreando/dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 1.epub",
