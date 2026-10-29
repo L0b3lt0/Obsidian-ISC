@@ -1,0 +1,2 @@
+- los patrones de dise;o sirven para MODULARIZAR
+- 

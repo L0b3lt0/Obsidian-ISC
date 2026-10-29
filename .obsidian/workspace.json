@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ug/Inteligencia de Negocios/Big data.md",
+                "file": "NET/Arquitectura de .NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big data"
+              "title": "Arquitectura de .NET"
             }
           }
         ],
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "d45b3b0367f66ba3",
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Ug/Inteligencia de Negocios/Big data.md"
+                "file": "NET/Arquitectura de .NET.md"
               },
               "icon": "lucide-info",
               "title": "Propiedades del archivo"
@@ -216,8 +215,10 @@
   },
   "active": "2cd9cddebf3a757d",
   "lastOpenFiles": [
-    "Libreando/anottation epub.md",
     "Ug/Inteligencia de Negocios/Big data.md",
+    "NET/Arquitectura de .NET.md",
+    "NET",
+    "Libreando/anottation epub.md",
     "Ug/Inteligencia de Negocios",
     "Ug",
     "Libreando/Aprendiendo dentro de ISC.md",
