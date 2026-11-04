@@ -23,14 +23,12 @@
             "id": "2cd9cddebf3a757d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "NET/Arquitectura de .NET.md",
-                "mode": "source",
-                "source": false
+                "file": "Libreando/anottation epub.md"
               },
               "icon": "lucide-file",
-              "title": "Arquitectura de .NET"
+              "title": "anottation epub"
             }
           }
         ],
@@ -215,8 +213,8 @@
   },
   "active": "2cd9cddebf3a757d",
   "lastOpenFiles": [
-    "Ug/Inteligencia de Negocios/Big data.md",
     "NET/Arquitectura de .NET.md",
+    "Ug/Inteligencia de Negocios/Big data.md",
     "NET",
     "Libreando/anottation epub.md",
     "Ug/Inteligencia de Negocios",
