@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "modulo-permisos/CONTEXTO_PROYECTO_TMR.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "d45b3b0367f66ba3",
@@ -216,7 +215,15 @@
   },
   "active": "2cd9cddebf3a757d",
   "lastOpenFiles": [
+    "Pasted image 20261106103500.png",
+    "Pasted image 20261106103522.png",
+    "Pasted image 20261106103530.png",
+    "Pasted image 20261106103517.png",
+    "Pasted image 20261106103509.png",
+    "Aprendiendo sobre Backend a Gran Escala - BBB.md",
     "Libreando/anottation epub.md",
+    "Pasted image 20261106103534.png",
+    "Libreando/Aprendiendo dentro de ISC.md",
     "modulo-permisos/CONTEXTO_PROYECTO_TMR.md",
     "modulo-permisos",
     "NET/Arquitectura de .NET.md",
@@ -224,9 +231,7 @@
     "NET",
     "Ug/Inteligencia de Negocios",
     "Ug",
-    "Libreando/Aprendiendo dentro de ISC.md",
     "A2 MERA ROBERTO.pdf",
-    "Aprendiendo sobre Backend a Gran Escala - BBB.md",
     "Libreando/dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 1.epub",
     "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 2.epub",
     "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915 1.epub",
