@@ -23,12 +23,14 @@
             "id": "2cd9cddebf3a757d",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Libreando/anottation epub.md"
+                "file": "modulo-permisos/CONTEXTO_PROYECTO_TMR.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "anottation epub"
+              "title": "CONTEXTO_PROYECTO_TMR"
             }
           }
         ],
@@ -94,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "d45b3b0367f66ba3",
@@ -213,10 +216,12 @@
   },
   "active": "2cd9cddebf3a757d",
   "lastOpenFiles": [
+    "Libreando/anottation epub.md",
+    "modulo-permisos/CONTEXTO_PROYECTO_TMR.md",
+    "modulo-permisos",
     "NET/Arquitectura de .NET.md",
     "Ug/Inteligencia de Negocios/Big data.md",
     "NET",
-    "Libreando/anottation epub.md",
     "Ug/Inteligencia de Negocios",
     "Ug",
     "Libreando/Aprendiendo dentro de ISC.md",
@@ -228,7 +233,6 @@
     "dokumen.pub_designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-2-w-2813915.epub",
     "Libreando",
     "prueba/nota de prueba.md",
-    "aohdjadjaodpo.md",
-    "prueba"
+    "aohdjadjaodpo.md"
   ]
 }
