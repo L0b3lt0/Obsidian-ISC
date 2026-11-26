@@ -5,3 +5,9 @@ para pasar a produccion se hara por fechas.
 		- valen?
 		- no valen?
 - TODOS VAMOS A JUGAR EN DEVELOP
+## 16 diciembre - PRIMERA FASE
+- deberian de solucionarse minimo, la mitad de los problemas del **TMR**
+	- empezamos principalmente con backend
+	- despues veremos unicamente en el frontend
+
+##
