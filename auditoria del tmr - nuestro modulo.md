@@ -10,4 +10,9 @@ para pasar a produccion se hara por fechas.
 	- empezamos principalmente con backend
 	- despues veremos unicamente en el frontend
 
-##
+##YO
+- mejoras continuas
+	- CI/CD para tmr
+	- mejoras de observabilidad y operatibilidad
+- 
+
