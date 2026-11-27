@@ -10,7 +10,7 @@ para pasar a produccion se hara por fechas.
 	- empezamos principalmente con backend
 	- despues veremos unicamente en el frontend
 
-##YO
+## YO
 - mejoras continuas
 	- CI/CD para tmr
 	- mejoras de observabilidad y operatibilidad
@@ -18,3 +18,6 @@ para pasar a produccion se hara por fechas.
 - Que es
 - Que herramientas usare??
 	- 
+## Crear un repositorio para los Workflows
+- levantamiento de actions
+- se importa
