@@ -14,5 +14,7 @@ para pasar a produccion se hara por fechas.
 - mejoras continuas
 	- CI/CD para tmr
 	- mejoras de observabilidad y operatibilidad
-- 
-
+# Empaparse en ingenieria de Observabilidad
+- Que es
+- Que herramientas usare??
+	- 
