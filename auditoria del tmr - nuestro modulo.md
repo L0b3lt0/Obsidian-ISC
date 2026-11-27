@@ -21,3 +21,5 @@ para pasar a produccion se hara por fechas.
 ## Crear un repositorio para los Workflows
 - levantamiento de actions
 - se importa
+# Que es una github app???
+- como se lleva de la mano con el dokploy
